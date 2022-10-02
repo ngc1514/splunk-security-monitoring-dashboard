@@ -1,4 +1,4 @@
-# splunk-security-monitoring-dashboard
+# SIEM Defense Project / Splunk Cloud Security Monitoring Dashboard
 
 ## Windows Server Monitoring
 ![windows](https://user-images.githubusercontent.com/30205154/188000864-0d3347ae-5ed1-4282-93de-224fd9c1bb0f.png)
